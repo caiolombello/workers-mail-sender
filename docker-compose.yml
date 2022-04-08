@@ -5,3 +5,5 @@ services:
     image: postgres:9.6
     environment:
       - POSTGRES_PASSWORD=password
+
+      teste
